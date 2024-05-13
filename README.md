@@ -8,9 +8,6 @@ Welcome to my Ecomm project! This project is built using Ruby on Rails 7 along w
 
 <div>
     <a href="https://www.loom.com/share/3743168c63de4dcaa2b79efd3b08935b">
-      <p>EricMart - 12 May 2024 - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/3743168c63de4dcaa2b79efd3b08935b">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3743168c63de4dcaa2b79efd3b08935b-with-play.gif">
     </a>
 </div>
