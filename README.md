@@ -6,6 +6,15 @@
 
 Welcome to my Ecomm project! This project is built using Ruby on Rails 7 along with several modern technologies to provide a seamless and efficient Ecomm experience. Below you'll find information on how to set up and run the project locally, as well as an overview of the technologies used.
 
+<div>
+    <a href="https://www.loom.com/share/3743168c63de4dcaa2b79efd3b08935b">
+      <p>EricMart - 12 May 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/3743168c63de4dcaa2b79efd3b08935b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3743168c63de4dcaa2b79efd3b08935b-with-play.gif">
+    </a>
+</div>
+  
 ## Tech Stack
 
 - [Ruby on Rails 7](https://rubyonrails.org/) - A web application framework written in Ruby.
